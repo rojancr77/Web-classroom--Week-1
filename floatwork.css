@@ -1,0 +1,13 @@
+#header{
+    background-color: crimson;
+}
+#left{
+    float:left;
+    background-color: blue;
+    width: 50px;
+}
+#right{
+    float:right;
+    background-color: aqua;
+    width:50px;
+}
