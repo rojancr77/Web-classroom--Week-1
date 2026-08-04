@@ -1,0 +1,18 @@
+/* body{
+    width:400px;
+    background-image:url(ronaldo.gif),url(background.jpg);
+    background-position:left top,right bottom;
+    background-repeat:no-repeat,no-repeat;
+    padding: 30px;
+} */
+/*for circle
+div{
+     border-radius: 50%; 
+     background-color: aqua;
+     width: 500px;
+     height: 500px;
+}*/
+h{
+    text-shadow:1px 2px;
+    text-shadow:0 0 3px #FF0000,0 0 5px #0000FF;
+}
