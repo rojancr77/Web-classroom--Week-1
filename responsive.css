@@ -1,0 +1,18 @@
+/* /* body {
+    display: flex;
+}
+
+body div {
+    width: 33.33%;
+}
+
+body div img {
+    width: 100%;
+    height: auto;
+}
+body div{
+    display: flex;
+} */
+.file1{
+    flex-shrink: 810000000000;
+}
